@@ -1,17 +1,7 @@
 # Wine Quality Exploratory Data Analysis
 
-An exploratory data analysis of the UCI Wine Quality dataset.
+Exploratory Data Analysis of the UCI Red Wine Quality dataset using Python, pandas, Matplotlib, and Seaborn.
 
-## Tools
-- Python
-- pandas
-- NumPy
-- Matplotlib
-- Seaborn
+The analysis includes descriptive statistics, histograms, box plots, outlier detection, scatter plot matrices, and categorical comparisons.
 
-## Dataset
-UCI Wine Quality Dataset
-
-## Project Goals
-Analyze distributions, summary statistics, outliers,
-and relationships between variables.
+Dataset: https://archive.ics.uci.edu/dataset/186/wine+quality
